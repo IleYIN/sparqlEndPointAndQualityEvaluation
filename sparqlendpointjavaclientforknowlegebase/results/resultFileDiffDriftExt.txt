@@ -1,0 +1,25 @@
+
+NarrowGauge
+version2015-version2014 --> nombre des instances nouvelles: 0
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : NaN
+Footway
+version2015-version2014 --> nombre des instances nouvelles: 67
+version2014-version2015 --> nombre des instances supprimées: 31
+Jaccard distance (Extensional drift) : 0.3858267716535433
+CattleGrid
+version2015-version2014 --> nombre des instances nouvelles: 1
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : 1.0
+NarrowGauge
+version2015-version2014 --> nombre des instances nouvelles: 0
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : NaN
+Footway
+version2015-version2014 --> nombre des instances nouvelles: 67
+version2014-version2015 --> nombre des instances supprimées: 31
+Jaccard distance (Extensional drift) : 0.3858267716535433
+CattleGrid
+version2015-version2014 --> nombre des instances nouvelles: 1
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : 1.0

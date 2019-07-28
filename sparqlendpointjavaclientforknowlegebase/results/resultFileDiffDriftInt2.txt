@@ -1,0 +1,80 @@
+School
+version2015-version2014 --> nombre des propriétés nouvelles: 462
+version2014-version2015 --> nombre des propriétés supprimées: 228
+Jaccard distance (intensional drift) : 0.24134312696747115
+Hedge
+version2015-version2014 --> nombre des propriétés nouvelles: 4
+version2014-version2015 --> nombre des propriétés supprimées: 3
+Jaccard distance (intensional drift) : 0.11864406779661017
+Bench
+version2015-version2014 --> nombre des propriétés nouvelles: 107
+version2014-version2015 --> nombre des propriétés supprimées: 39
+Jaccard distance (intensional drift) : 0.24172185430463577
+Restaurant
+version2015-version2014 --> nombre des propriétés nouvelles: 676
+version2014-version2015 --> nombre des propriétés supprimées: 309
+Jaccard distance (intensional drift) : 0.32095144998370806
+Platform
+version2015-version2014 --> nombre des propriétés nouvelles: 53
+version2014-version2015 --> nombre des propriétés supprimées: 19
+Jaccard distance (intensional drift) : 0.32727272727272727
+BusStop
+version2015-version2014 --> nombre des propriétés nouvelles: 31
+version2014-version2015 --> nombre des propriétés supprimées: 19
+Jaccard distance (intensional drift) : 0.17921146953405018
+FireHydrant
+version2015-version2014 --> nombre des propriétés nouvelles: 4
+version2014-version2015 --> nombre des propriétés supprimées: 99
+Jaccard distance (intensional drift) : 0.762962962962963
+LevelCrossing
+version2015-version2014 --> nombre des propriétés nouvelles: 0
+version2014-version2015 --> nombre des propriétés supprimées: 0
+Jaccard distance (intensional drift) : 0.0
+StopPosition
+version2015-version2014 --> nombre des propriétés nouvelles: 40
+version2014-version2015 --> nombre des propriétés supprimées: 13
+Jaccard distance (intensional drift) : 0.29444444444444445
+PowerLine
+version2015-version2014 --> nombre des propriétés nouvelles: 0
+version2014-version2015 --> nombre des propriétés supprimées: 0
+Jaccard distance (intensional drift) : 0.0
+TourismInformation
+version2015-version2014 --> nombre des propriétés nouvelles: 43
+version2014-version2015 --> nombre des propriétés supprimées: 19
+Jaccard distance (intensional drift) : 0.24313725490196078
+SurveyPoint
+version2015-version2014 --> nombre des propriétés nouvelles: 3
+version2014-version2015 --> nombre des propriétés supprimées: 3
+Jaccard distance (intensional drift) : 0.11538461538461539
+FuelStation
+version2015-version2014 --> nombre des propriétés nouvelles: 317
+version2014-version2015 --> nombre des propriétés supprimées: 151
+Jaccard distance (intensional drift) : 0.2887106724244294
+PowerGenerator
+version2015-version2014 --> nombre des propriétés nouvelles: 12
+version2014-version2015 --> nombre des propriétés supprimées: 5
+Jaccard distance (intensional drift) : 0.15315315315315314
+Convenience
+version2015-version2014 --> nombre des propriétés nouvelles: 126
+version2014-version2015 --> nombre des propriétés supprimées: 52
+Jaccard distance (intensional drift) : 0.3011844331641286
+Bollard
+version2015-version2014 --> nombre des propriétés nouvelles: 17
+version2014-version2015 --> nombre des propriétés supprimées: 4
+Jaccard distance (intensional drift) : 0.38181818181818183
+Pier
+version2015-version2014 --> nombre des propriétés nouvelles: 20
+version2014-version2015 --> nombre des propriétés supprimées: 7
+Jaccard distance (intensional drift) : 0.24107142857142858
+Cafe
+version2015-version2014 --> nombre des propriétés nouvelles: 377
+version2014-version2015 --> nombre des propriétés supprimées: 141
+Jaccard distance (intensional drift) : 0.2924901185770751
+FastFood
+version2015-version2014 --> nombre des propriétés nouvelles: 353
+version2014-version2015 --> nombre des propriétés supprimées: 128
+Jaccard distance (intensional drift) : 0.3193891102257636
+Bank
+version2015-version2014 --> nombre des propriétés nouvelles: 283
+version2014-version2015 --> nombre des propriétés supprimées: 123
+Jaccard distance (intensional drift) : 0.30734292202876606

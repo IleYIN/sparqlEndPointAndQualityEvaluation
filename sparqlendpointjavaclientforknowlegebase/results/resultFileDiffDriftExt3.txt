@@ -1,0 +1,60 @@
+SportsCentre
+version2015-version2014 --> nombre des instances nouvelles: 355
+version2014-version2015 --> nombre des instances supprimées: 286
+Jaccard distance (Extensional drift) : 0.33648293963254594
+Museum
+version2015-version2014 --> nombre des instances nouvelles: 131
+version2014-version2015 --> nombre des instances supprimées: 74
+Jaccard distance (Extensional drift) : 0.246690734055355
+Ruins
+version2015-version2014 --> nombre des instances nouvelles: 168
+version2014-version2015 --> nombre des instances supprimées: 52
+Jaccard distance (Extensional drift) : 0.2180376610505451
+Track
+version2015-version2014 --> nombre des instances nouvelles: 27
+version2014-version2015 --> nombre des instances supprimées: 15
+Jaccard distance (Extensional drift) : 0.22580645161290322
+WaterTower
+version2015-version2014 --> nombre des instances nouvelles: 12
+version2014-version2015 --> nombre des instances supprimées: 2
+Jaccard distance (Extensional drift) : 0.20588235294117646
+CyclewayOpposite
+version2015-version2014 --> nombre des instances nouvelles: 0
+version2014-version2015 --> nombre des instances supprimées: 1
+Jaccard distance (Extensional drift) : 0.5
+Airport
+version2015-version2014 --> nombre des instances nouvelles: 7
+version2014-version2015 --> nombre des instances supprimées: 6
+Jaccard distance (Extensional drift) : 0.3939393939393939
+CyclewayOpposite
+version2015-version2014 --> nombre des instances nouvelles: 0
+version2014-version2015 --> nombre des instances supprimées: 1
+Jaccard distance (Extensional drift) : 0.5
+HighwayService
+version2015-version2014 --> nombre des instances nouvelles: 556
+version2014-version2015 --> nombre des instances supprimées: 662
+Jaccard distance (Extensional drift) : 0.31636363636363635
+Kiosk
+version2015-version2014 --> nombre des instances nouvelles: 479
+version2014-version2015 --> nombre des instances supprimées: 215
+Jaccard distance (Extensional drift) : 0.22423263327948303
+WaterWell
+version2015-version2014 --> nombre des instances nouvelles: 362
+version2014-version2015 --> nombre des instances supprimées: 23
+Jaccard distance (Extensional drift) : 0.2585627938213566
+TramStop
+version2015-version2014 --> nombre des instances nouvelles: 135
+version2014-version2015 --> nombre des instances supprimées: 26
+Jaccard distance (Extensional drift) : 0.575
+Silo
+version2015-version2014 --> nombre des instances nouvelles: 2
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : 0.07692307692307693
+Craft
+version2015-version2014 --> nombre des instances nouvelles: 301
+version2014-version2015 --> nombre des instances supprimées: 23
+Jaccard distance (Extensional drift) : 0.5734513274336284
+Block
+version2015-version2014 --> nombre des instances nouvelles: 11
+version2014-version2015 --> nombre des instances supprimées: 1
+Jaccard distance (Extensional drift) : 0.2926829268292683

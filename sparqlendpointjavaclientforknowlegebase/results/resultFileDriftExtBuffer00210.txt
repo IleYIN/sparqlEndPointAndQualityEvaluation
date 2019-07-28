@@ -1,0 +1,2 @@
+?n_s	?subject
+1	<http://linkedgeodata.org/triplify/way30274202>

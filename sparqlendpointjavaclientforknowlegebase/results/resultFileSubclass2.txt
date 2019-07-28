@@ -1,0 +1,5 @@
+"n_stot"	"subClass"
+519059	"http://linkedgeodata.org/ontology/Restaurant"
+191787	"http://linkedgeodata.org/ontology/Cafe"
+191019	"http://linkedgeodata.org/ontology/FastFood"
+

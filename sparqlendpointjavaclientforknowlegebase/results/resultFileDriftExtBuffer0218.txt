@@ -1,0 +1,16 @@
+?n_s	?subject
+1	<http://linkedgeodata.org/triplify/node1624955265>
+1	<http://linkedgeodata.org/triplify/node1822796516>
+1	<http://linkedgeodata.org/triplify/node2138009700>
+1	<http://linkedgeodata.org/triplify/node2171609674>
+1	<http://linkedgeodata.org/triplify/node2288844954>
+1	<http://linkedgeodata.org/triplify/node2399721149>
+1	<http://linkedgeodata.org/triplify/node360388347>
+1	<http://linkedgeodata.org/triplify/way202144691>
+1	<http://linkedgeodata.org/triplify/way236086183>
+1	<http://linkedgeodata.org/triplify/way309588279>
+1	<http://linkedgeodata.org/triplify/way318978355>
+1	<http://linkedgeodata.org/triplify/way348390791>
+1	<http://linkedgeodata.org/triplify/way356023190>
+1	<http://linkedgeodata.org/triplify/way368944486>
+1	<http://linkedgeodata.org/triplify/way68623253>

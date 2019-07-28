@@ -1,0 +1,52 @@
+HistoricPointOfInterest
+version2015-version2014 --> nombre des instances nouvelles: 840
+version2014-version2015 --> nombre des instances supprimées: 263
+Jaccard distance (Extensional drift) : 0.4091246290801187
+Farm
+version2015-version2014 --> nombre des instances nouvelles: 16
+version2014-version2015 --> nombre des instances supprimées: 35
+Jaccard distance (Extensional drift) : 0.2786885245901639
+Monument
+version2015-version2014 --> nombre des instances nouvelles: 140
+version2014-version2015 --> nombre des instances supprimées: 155
+Jaccard distance (Extensional drift) : 0.23905996758508913
+PetroleumWell
+version2015-version2014 --> nombre des instances nouvelles: 1
+version2014-version2015 --> nombre des instances supprimées: 1
+Jaccard distance (Extensional drift) : 0.6666666666666666
+Butcher
+version2015-version2014 --> nombre des instances nouvelles: 85
+version2014-version2015 --> nombre des instances supprimées: 25
+Jaccard distance (Extensional drift) : 0.3273809523809524
+Path
+version2015-version2014 --> nombre des instances nouvelles: 15
+version2014-version2015 --> nombre des instances supprimées: 4
+Jaccard distance (Extensional drift) : 0.35185185185185186
+Transformer
+version2015-version2014 --> nombre des instances nouvelles: 2
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : 1.0
+Subway
+version2015-version2014 --> nombre des instances nouvelles: 0
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : NaN
+RailwayHalt
+version2015-version2014 --> nombre des instances nouvelles: 8
+version2014-version2015 --> nombre des instances supprimées: 9
+Jaccard distance (Extensional drift) : 0.7083333333333334
+Path
+version2015-version2014 --> nombre des instances nouvelles: 15
+version2014-version2015 --> nombre des instances supprimées: 4
+Jaccard distance (Extensional drift) : 0.35185185185185186
+Transformer
+version2015-version2014 --> nombre des instances nouvelles: 2
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : 1.0
+Subway
+version2015-version2014 --> nombre des instances nouvelles: 0
+version2014-version2015 --> nombre des instances supprimées: 0
+Jaccard distance (Extensional drift) : NaN
+RailwayHalt
+version2015-version2014 --> nombre des instances nouvelles: 8
+version2014-version2015 --> nombre des instances supprimées: 9
+Jaccard distance (Extensional drift) : 0.7083333333333334

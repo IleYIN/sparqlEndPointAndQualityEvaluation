@@ -1,0 +1,88 @@
+SportsCentre
+version2015-version2014 --> nombre des propriétés nouvelles: 60
+version2014-version2015 --> nombre des propriétés supprimées: 27
+Jaccard distance (intensional drift) : 0.2727272727272727
+Library
+version2015-version2014 --> nombre des propriétés nouvelles: 209
+version2014-version2015 --> nombre des propriétés supprimées: 96
+Jaccard distance (intensional drift) : 0.2757685352622061
+Museum
+version2015-version2014 --> nombre des propriétés nouvelles: 57
+version2014-version2015 --> nombre des propriétés supprimées: 19
+Jaccard distance (intensional drift) : 0.2593856655290102
+Ruins
+version2015-version2014 --> nombre des propriétés nouvelles: 19
+version2014-version2015 --> nombre des propriétés supprimées: 4
+Jaccard distance (intensional drift) : 0.18253968253968253
+Track
+version2015-version2014 --> nombre des propriétés nouvelles: 5
+version2014-version2015 --> nombre des propriétés supprimées: 13
+Jaccard distance (intensional drift) : 0.20224719101123595
+WaterTower
+version2015-version2014 --> nombre des propriétés nouvelles: 11
+version2014-version2015 --> nombre des propriétés supprimées: 12
+Jaccard distance (intensional drift) : 0.27380952380952384
+Doctors
+version2015-version2014 --> nombre des propriétés nouvelles: 246
+version2014-version2015 --> nombre des propriétés supprimées: 57
+Jaccard distance (intensional drift) : 0.28291316526610644
+Entrance
+version2015-version2014 --> nombre des propriétés nouvelles: 1
+version2014-version2015 --> nombre des propriétés supprimées: 6
+Jaccard distance (intensional drift) : 0.1206896551724138
+CarShop
+version2015-version2014 --> nombre des propriétés nouvelles: 11
+version2014-version2015 --> nombre des propriétés supprimées: 12
+Jaccard distance (intensional drift) : 0.18699186991869918
+Airport
+version2015-version2014 --> nombre des propriétés nouvelles: 3
+version2014-version2015 --> nombre des propriétés supprimées: 5
+Jaccard distance (intensional drift) : 0.21052631578947367
+CyclewayOpposite
+version2015-version2014 --> nombre des propriétés nouvelles: 0
+version2014-version2015 --> nombre des propriétés supprimées: 3
+Jaccard distance (intensional drift) : 0.25
+HighwayService
+version2015-version2014 --> nombre des propriétés nouvelles: 28
+version2014-version2015 --> nombre des propriétés supprimées: 43
+Jaccard distance (intensional drift) : 0.27307692307692305
+Kiosk
+version2015-version2014 --> nombre des propriétés nouvelles: 91
+version2014-version2015 --> nombre des propriétés supprimées: 37
+Jaccard distance (intensional drift) : 0.32323232323232326
+WaterWell
+version2015-version2014 --> nombre des propriétés nouvelles: 25
+version2014-version2015 --> nombre des propriétés supprimées: 3
+Jaccard distance (intensional drift) : 0.1917808219178082
+TramStop
+version2015-version2014 --> nombre des propriétés nouvelles: 10
+version2014-version2015 --> nombre des propriétés supprimées: 5
+Jaccard distance (intensional drift) : 0.25862068965517243
+Silo
+version2015-version2014 --> nombre des propriétés nouvelles: 1
+version2014-version2015 --> nombre des propriétés supprimées: 1
+Jaccard distance (intensional drift) : 0.06896551724137931
+Craft
+version2015-version2014 --> nombre des propriétés nouvelles: 40
+version2014-version2015 --> nombre des propriétés supprimées: 5
+Jaccard distance (intensional drift) : 0.2922077922077922
+Block
+version2015-version2014 --> nombre des propriétés nouvelles: 5
+version2014-version2015 --> nombre des propriétés supprimées: 0
+Jaccard distance (intensional drift) : 0.17857142857142858
+SocialFacility
+version2015-version2014 --> nombre des propriétés nouvelles: 196
+version2014-version2015 --> nombre des propriétés supprimées: 46
+Jaccard distance (intensional drift) : 0.33657858136300417
+Artwork
+version2015-version2014 --> nombre des propriétés nouvelles: 42
+version2014-version2015 --> nombre des propriétés supprimées: 11
+Jaccard distance (intensional drift) : 0.24882629107981222
+University
+version2015-version2014 --> nombre des propriétés nouvelles: 121
+version2014-version2015 --> nombre des propriétés supprimées: 117
+Jaccard distance (intensional drift) : 0.20570440795159897
+EmergencyPhone
+version2015-version2014 --> nombre des propriétés nouvelles: 20
+version2014-version2015 --> nombre des propriétés supprimées: 18
+Jaccard distance (intensional drift) : 0.3958333333333333
